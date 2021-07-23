@@ -8,5 +8,6 @@ This is my first repository.
 **Result-1:**  
 ![Result](https://user-images.githubusercontent.com/79842525/126747196-f7f273f8-480e-46f5-ab59-f5ce4778ee97.png)
 **Result-2:**
+![error result](https://user-images.githubusercontent.com/79842525/126747219-bde008bc-8f3c-47f1-b42a-292a88acdc07.png)
 
 
