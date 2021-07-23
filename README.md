@@ -16,7 +16,6 @@ This is my first repository.
 **AboutUs Page:**
 ![aboutus page](https://user-images.githubusercontent.com/79842525/126747230-45e5917c-9a45-4f92-8477-aeb26611d2bc.png)
 **Footer Section:**
-![footer](https://user-images.githubusercontent.com/79842525/126747272-3aeac050-81bc-498c-9718-187
-e6f07be8e.png)
+
 
 
