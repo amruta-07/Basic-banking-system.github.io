@@ -2,5 +2,7 @@ Hello everyone! Hope your doing well.I am Amruta Misal currently working as a We
 this is the task1 given to me Basic-banking-system.github.io and i have to create a simple dynamic website.
 This is my first repository.  
 **Screenshots:Home Page**
-![bank1ss](https://user-images.githubusercontent.com/79842525/126741533-7f8c9400-7a7b-47a3-9884-108d9c93c994.png)  
+![bank1ss](https://user-images.githubusercontent.com/79842525/126741533-7f8c9400-7a7b-47a3-9884-108d9c93c994.png) 
+**View all customers**
+![View all Customers](https://user-images.githubusercontent.com/79842525/126746877-35bcd456-4b3b-4d22-8e7f-ba3680f9548b.png)
 
