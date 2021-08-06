@@ -18,8 +18,7 @@ Have a look!
 **Footer Section:**
 ![footer2](https://user-images.githubusercontent.com/79842525/126747283-f7635825-f779-4f27-950e-16d608855b65.png) 
 
-  
-  <iframe src="https://www.youtube.com/embed/UrrjJSwfPPM"frameborder="0"></iframe>
+
   
   ## Contribution Guidelines 🏗
 
